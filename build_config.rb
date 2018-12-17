@@ -22,7 +22,7 @@ end
 #
 #   gem_config(conf)
 # end
-#
+
 # MRuby::CrossBuild.new('i686-pc-linux-gnu') do |conf|
 #   toolchain :gcc
 #
@@ -32,7 +32,7 @@ end
 #
 #   gem_config(conf)
 # end
-#
+
 # MRuby::CrossBuild.new('x86_64-apple-darwin14') do |conf|
 #   toolchain :clang
 #
@@ -47,7 +47,7 @@ end
 #
 #   gem_config(conf)
 # end
-#
+
 # MRuby::CrossBuild.new('i386-apple-darwin14') do |conf|
 #   toolchain :clang
 #
@@ -62,7 +62,7 @@ end
 #
 #   gem_config(conf)
 # end
-#
+
 # MRuby::CrossBuild.new('x86_64-w64-mingw32') do |conf|
 #   toolchain :gcc
 #
@@ -78,7 +78,7 @@ end
 #
 #   gem_config(conf)
 # end
-#
+
 # MRuby::CrossBuild.new('i686-w64-mingw32') do |conf|
 #   toolchain :gcc
 #
